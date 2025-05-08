@@ -175,16 +175,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalesjj&show_icons=true&theme=radical)
 
-
 ### 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalesjj&layout=compact&theme=radical)
-
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jalesjj&theme=radical)
-
 
 ### 🏆 GitHub Trophies
 
