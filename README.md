@@ -179,9 +179,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalesjj&layout=compact&theme=radical)
 
+### ⏳ Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jalesjj&theme=radical)](https://git.io/streak-stats)
+
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jalesjj&theme=radical)
+
+<!-- ![Location](https://img.shields.io/badge/Location-Lamongan,%20Indonesia-blue?style=flat&logo=google-maps)
+![Timezone](https://img.shields.io/badge/Timezone-GMT%2B7%20WIB-yellow?style=flat)-->
 
 ---
 <!--
