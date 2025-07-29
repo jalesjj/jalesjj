@@ -15,9 +15,7 @@
 [![Spotify](https://novatorem-jalesjj.vercel.app/api/spotify)](https://open.spotify.com/user/j_Del_Rey)-->
 ---
 ### 🌟 Featured Projects
-[![IoT Water Level](https://github-readme-stats.vercel.app/api/pin/?username=jalesjj&repo=Project_IoT-WaterLevel&theme=radical&cache_seconds=60)](https://github.com/jalesjj/Project_IoT-WaterLevel)
-
-[![IoT Water Level](https://github-readme-stats.vercel.app/api/pin/?username=jalesjj&repo=chatbot&theme=radical&cache_seconds=60)](https://github.com/jalesjj/chatbot)
+[![IoT Water Level](https://github-readme-stats.vercel.app/api/pin/?username=jalesjj&repo=Project_IoT-WaterLevel&theme=radical&cache_seconds=60)](https://github.com/jalesjj/Project_IoT-WaterLevel) [![Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=jalesjj&repo=chatbot&theme=radical&cache_seconds=60)](https://github.com/jalesjj/chatbot)
 
 ---
 ### 📚 Currently Learning 
