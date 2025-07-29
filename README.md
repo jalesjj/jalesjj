@@ -17,6 +17,8 @@
 ### 🌟 Featured Projects
 [![IoT Water Level](https://github-readme-stats.vercel.app/api/pin/?username=jalesjj&repo=Project_IoT-WaterLevel&theme=radical&cache_seconds=60)](https://github.com/jalesjj/Project_IoT-WaterLevel)
 
+[![IoT Water Level](https://github-readme-stats.vercel.app/api/pin/?username=jalesjj&repo=chatbot&theme=radical&cache_seconds=60)](https://github.com/jalesjj/chatbot)
+
 ---
 ### 📚 Currently Learning 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
